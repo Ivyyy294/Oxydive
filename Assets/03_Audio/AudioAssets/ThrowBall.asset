@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f7490679cbb0ec49b5d45a66e74b10e, type: 3}
+  m_Name: ThrowBall
+  m_EditorClassIdentifier: 
+  clipData:
+  - clip: {fileID: 8300000, guid: 7958c452f4b492741b89006eeb37951e, type: 3}
+    subtitle: 
+  - clip: {fileID: 8300000, guid: efc9dab432576ef4d83001a87d5be93a, type: 3}
+    subtitle: 
+  - clip: {fileID: 8300000, guid: c9f29fbe31b635d4a9473b3485f795c6, type: 3}
+    subtitle: 
+  - clip: {fileID: 8300000, guid: e56cc8ed69209304588099d82f98b8a3, type: 3}
+    subtitle: 
+  - clip: {fileID: 8300000, guid: 2e30ac604f44936448c632db4d7c6062, type: 3}
+    subtitle: 
+  playStyle: 0
+  audioTyp: 0
+  loop: 0
+  volume: {x: 1, y: 1}
+  pitch: {x: 1.5014889, y: 1.5014889}
+  spatial: 1
+  minDistance: 0.5
+  maxDistance: 500
